@@ -1,1 +1,2 @@
-Bella di padell!
+Bella di padella!
+Prima modifica ad un file tracciato in git.
